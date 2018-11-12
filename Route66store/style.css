@@ -1,0 +1,46 @@
+.navbar-inverse .navbar-nav>li>a {
+    color: #aaaaaa;
+}
+
+.panel{
+	background: rgba(255,255,255,0.3);
+	border-color: white;
+}
+
+.nav-pills {
+  background: rgba(53,63,72,0.8);
+}
+
+.nav-pills a {
+  color:white;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+   background-color: grey;
+}
+
+.panel-success>.panel-heading {
+    color: white;
+    background-color: grey;
+    border-color: black;
+}
+
+.panel-primary>.panel-heading {
+	color: white;
+	background-color: gray;
+	border-color: white;
+}
+
+.panel-info>.panel-heading {
+    color: white;
+    background-color: black;
+    border-color: black;
+}
+
+
+.panel-footer {
+	color: white;
+    background-color: black;
+}
+
+.carousel-inner > .item {min-height: 300px; background-size:cover; background-position: center center;}
